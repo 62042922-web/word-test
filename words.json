@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1101,
+    "word": "labor",
+    "examples": [
+      {
+        "en": "manual labor",
+        "jp": "肉体労働"
+      },
+      {
+        "en": "skilled labor",
+        "jp": "熟練した労働者"
+      },
+      {
+        "en": "go into labor",
+        "jp": "陣痛が始まる"
+      }
+    ]
+  },
+  {
+    "id": 1102,
+    "word": "overwork",
+    "examples": [
+      {
+        "en": "stop overworking",
+        "jp": "働き過ぎをやめる"
+      },
+      {
+        "en": "overwork the employees",
+        "jp": "従業員を働かせすぎる"
+      },
+      {
+        "en": "Overwork made him ill.",
+        "jp": "彼は過労で病気になった"
+      }
+    ]
+  },
+  {
+    "id": 1103,
+    "word": "firm",
+    "examples": [
+      {
+        "en": "a law firm",
+        "jp": "法律会社"
+      },
+      {
+        "en": "I am a firm believer in fate.",
+        "jp": "私は運命をとても強く信じている"
+      },
+      {
+        "en": "firm muscles",
+        "jp": "引き締まった筋肉"
+      }
+    ]
+  },
+  {
+    "id": 1104,
+    "word": "union",
+    "examples": [
+      {
+        "en": "a union member",
+        "jp": "労働組合員"
+      },
+      {
+        "en": "a union of two cities",
+        "jp": "2都市の合併"
+      },
+      {
+        "en": "the former Soviet Union",
+        "jp": "旧ソビエト連邦"
+      }
+    ]
+  },
+  {
+    "id": 1105,
+    "word": "administration",
+    "examples": [
+      {
+        "en": "school administration",
+        "jp": "学校運営"
+      },
+      {
+        "en": "municipal administration",
+        "jp": "市政"
+      },
+      {
+        "en": "the Trump administration",
+        "jp": "トランプ政権"
+      }
+    ]
+  }
+]
